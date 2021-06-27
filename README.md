@@ -1,8 +1,10 @@
 # Ringviz - A ThreeJS Toy
 A **Ring** **Viz**ualization demo. Result of playing around with ThreeJS, FFT and sound. A personal learning experience of varying aesthetic quality. Code is pretty sphaget, but works-on-my-machine(tm) :spaghetti:
 
+Best viewed on non-mobile devices.
+
 ## How to use
-- Find it here: 
+- Find it here: https://ckk91.github.io/ringviz/
 - Click play. Headphone warning!
 - Use mouse click and drag to look around
 - (Maybe) enjoy!
