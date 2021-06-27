@@ -5,6 +5,7 @@ A **Ring** **Viz**ualization demo. Result of playing around with ThreeJS, FFT an
 - Find it here: 
 - Click play. Headphone warning!
 - Use mouse click and drag to look around
+- (Maybe) enjoy!
 
 ## Credits
 - Song: Voxel Revolution, Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/
