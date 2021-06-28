@@ -1,3 +1,11 @@
+/*
+Playing around with ThreeJS by programmatically creating an abstract speaker and making it move
+by FFT-analyzing a music file.
+
+Author: Christoph Koch
+Date: Uhhh, Q1 2021
+*/
+
 import * as THREE from './vendor/three.module.js'
 import { OrbitControls } from './vendor/OrbitControls.js'
 import Stats from './vendor/stats.module.js';
