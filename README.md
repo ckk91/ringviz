@@ -1,7 +1,9 @@
 # Ringviz - A ThreeJS Toy
-A **Ring** **Viz**ualization demo. Result of playing around with ThreeJS, FFT and sound. A personal learning experience of varying aesthetic quality. Code is pretty sphaget, but works-on-my-machine(tm) :spaghetti:
+A **Ring** **Viz**ualization demo. Okay more of an abstract speaker vizualizing music, image is below. Result of playing around with ThreeJS, FFT and sound. A personal learning experience of varying aesthetic quality. Code is pretty sphaget, but works-on-my-machine(tm) :spaghetti:
 
 Best viewed on non-mobile devices.
+
+![Header Image](./ringviz_demo_cropped.png?raw=true "Header image of the visualizer")
 
 ## How to use
 - Find it here: https://ckk91.github.io/ringviz/
