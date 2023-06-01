@@ -6,7 +6,7 @@ Best viewed on non-mobile devices.
 ![Header Image](./ringviz_demo_cropped.png?raw=true "Header image of the visualizer")
 
 ## How to use
-- Find it here: https://ckk91.github.io/ringviz/
+- Find it here: https://musical-avian.github.io/ringviz/
 - Click play. Headphone warning!
 - Use mouse click and drag to look around
 - (Maybe) enjoy!
